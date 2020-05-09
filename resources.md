@@ -110,7 +110,7 @@ A specially curated list of links for your browsing pleasure.
 </details>
 
 </p>
-
+<br>
 ## Travel resources
 <p>
 <details>
