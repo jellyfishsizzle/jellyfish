@@ -9,7 +9,7 @@ progress.
 ![](/assets/img/phonebooth.jpg){:.img-right}
 
 * What is a "jellyfish sizzle"?
-: [RTFM](/index.md)
+: [RTFM](/README.md)
 
 * Do you really need an FAQ for a blog?
 : Yes!  The "About" page doesn't really cover everything.
