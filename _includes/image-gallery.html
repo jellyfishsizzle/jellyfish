@@ -1,0 +1,27 @@
+<style>
+  .gallery {overflow: auto; margin-left: -1%!important;}
+  .gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+  .gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+  .gallery a img {width: 100%; display: block;}
+</style>
+
+<div class="gallery">
+  {% for file in site.static_files %}
+    {% if file.path contains include.folder %}
+      {% if file.extname == '.jpg' or 
+        file.extname == '.jpeg' or 
+        file.extname == '.JPG' or 
+        file.extname == '.JPEG' %}
+
+        {% assign filenameparts = file.path | split: "/" %}
+        {% assign filename = filenameparts | last | replace: file.extname,"" %}
+
+        <a href="{{ file.path }}" title="{{ filename }}" data-lightbox="france">
+          <img src="{{ file.path }}" alt="{{ filename }}" />
+        </a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<script src="/assets/js/lightbox-plus-jquery.js"></script>
