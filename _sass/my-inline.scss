@@ -19,18 +19,16 @@ img[alt=commodore] {
 /**
  * Code formatting
  */
-.highlight, pre.highlight, .highlighter-rouge {
+.highlight, pre.highlight {
     font-size: 12px;
-    //background-color: #d9d9d9;
     color: #00cc00;
 }
-/*
+
 .highlighter-rouge {
     font-size: 12px;
-    //background-color: #d9d9d9;
     color: #00cc00;
 }
-*/
+
 /* Get rid of some extra whitespace */
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
