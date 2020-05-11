@@ -1,2 +1,9 @@
 // You can add CSS rules here that will be inlucded in Hydejack's CSS file
 
+/**
+ * Code formatting
+ */
+.highlight, pre.highlight, .highlighter-rouge {
+    font-size: 12px;
+    color: #00cc00;
+}
