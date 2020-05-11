@@ -51,10 +51,10 @@ than the other colors because it travels as shorter, smaller waves.
 : According to [Caffiene Calculator](https://www.caffeineinformer.com/death-by-caffeine) I can drink 170 cans and still be safe.  Although, I'd probably be pretty sick.
 
 * Is there a map of the internet?
-: The Carna botnet was comprised of 420,000 devices created by an anonymous researcher to measure the extent of the Internet in what the creator called the “Internet Census of 2012”.  More details about how it went down and the resulting map can be found on [Wikipedia](https://en.wikipedia.org/wiki/Carna_botnet)
+: The Carna botnet was comprised of 420,000 devices created by an anonymous researcher to measure the extent of the Internet in what the creator called the “Internet Census of 2012”.  More details about how it went down and the resulting map can be found on [Wikipedia](https://en.wikipedia.org/wiki/Carna_botnet).
 
 * Cats or Dogs?
-: Cats
+: Cats.
 
 * Where is the best place to go for a vacation?
 : My current favorite destination is Japan.  However, that is subject to change since I haven't been everywhere yet.

@@ -2,7 +2,6 @@
 layout: post
 title: Back in my day..
 catagories: Geekery
-noindex: true
 ---
 ![commodore](/assets/img/blog/commodore64.png){:.img-left}
 Technology has come a long way in such a short time.  Many years ago, in a previous life, I was really into computer (in)security.  A friend of mine helped me with my first Slackware install and despite that I still enjoyed it.  I got into going to 2600 meetings, regularly went to Defcon and was totally hooked.  This is it for me, this is what I want to be when I grow up.
