@@ -111,8 +111,10 @@ A specially curated list of links for your browsing pleasure.
 </details>
 
 </p>
+</div>
 <br>
 ## Travel resources
+<div class="rsrc">
 <p>
 <details>
   <summary><strong>Apps (you know where to find them)</strong></summary>
