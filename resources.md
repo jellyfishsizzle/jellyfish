@@ -5,6 +5,7 @@ title: Resources
 A specially curated list of links for your browsing pleasure.
 
 ## Technical Resources
+<div class="rsrc">
 <p>
 <details>
   <summary><strong>Binary Exploitation</strong></summary>
@@ -163,6 +164,6 @@ https://www.afar.com/travel-tips/incredible-street-art-around-the-world" target=
 
 </details>
 
-
-
 </p>
+
+</div>
