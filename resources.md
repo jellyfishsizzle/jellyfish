@@ -4,7 +4,7 @@ title: Resources
 ---
 A specially curated list of links for your browsing pleasure.
 
-## Technical Resources
+<h2> Technical Resources</h2>
 <div class="rsrc">
 <p>
 <details>
@@ -112,8 +112,10 @@ A specially curated list of links for your browsing pleasure.
 
 </p>
 </div>
+
 <br>
-## Travel resources
+
+<h2> Travel resources </h2>
 <div class="rsrc">
 <p>
 <details>
