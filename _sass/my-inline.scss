@@ -8,7 +8,11 @@ body {
 hr.dingbat { display: none }
 
 .rsrc {
-    cursor:pointer;
+    cursor: pointer;
+}
+
+:focus {
+  outline: none;
 }
 
 img[alt=commodore] {
