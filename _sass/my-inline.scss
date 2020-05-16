@@ -12,7 +12,7 @@ hr.dingbat { display: none }
 }
 
 :focus {
-  outline: none;
+  outline: none !important;
 }
 
 img[alt=commodore] {
