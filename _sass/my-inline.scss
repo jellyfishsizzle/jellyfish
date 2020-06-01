@@ -30,7 +30,7 @@ table:not(.highlight) tbody tr:nth-child(2n) td, table:not(.highlight) tbody tr:
 }
 
 table:not(.highlight) thead {
-    background-color: #0c305a;
+    background-color: #0c305a !important;
     text-align: left;
 }
 /**
