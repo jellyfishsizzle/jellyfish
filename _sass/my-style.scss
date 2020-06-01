@@ -1,1 +1,8 @@
 // You can add CSS rules here that will be inlucded in Hydejack's CSS file
+table:not(.highlight) tbody tr:nth-child(2n) td, table:not(.highlight) tbody tr:nth-child(2n) th {
+  background-color: #092443 !important;
+}
+
+table:not(.highlight) thead {
+    background-color: #0c305a !important;
+}
