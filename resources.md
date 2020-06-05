@@ -60,10 +60,6 @@ A specially curated list of links for your browsing pleasure.
 <li><a href="https://explainshell.com/" target="_blank">Explain Shell</a></li>
 <li><a href="https://www.markdownguide.org/basic-syntax" target="_blank">Markdown Guide</a></li>
 <li><a href="https://ired.team/offensive-security-experiments/offensive-security-cheetsheets" target="_blank">Pentest Cheatsheet</a></li>
-
-<li><a href="https://www.root-me.org/" target="_blank">Root Me</a></li>
-<li><a href="https://tryhackme.com/" target="_blank">Try Hack Me</a></li>
-<li><a href="https://www.vulnhub.com/" target="_blank">Vulnhub</a></li>
 </ul>
 
 </details>
